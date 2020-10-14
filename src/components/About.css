@@ -1,0 +1,49 @@
+:root {
+	--blue: #22a7f0;
+	--white: #fff;
+	--purple: #bf55ec;
+	--pink: #f62459;
+	--yellow: #f7ca18;
+	--orange: #f89406;
+	--green: #2ecc71;
+}
+
+.button {
+	border: 1px solid;
+	border-radius: 25px;
+	background-color: var(--white);
+	transition: background-color 0.5s ease;
+	width: 100px;
+	text-decoration: none;
+	text-align: center;
+	font-weight: bold;
+	margin: 1rem;
+}
+
+.button:hover {
+	color: var(--white);
+}
+
+.btn-about {
+	border-color: var(--blue);
+	color: var(--blue);
+}
+
+.btn-about:hover {
+	background-color: var(--blue);
+}
+
+.btn-github {
+	border-color: var(--purple);
+	color: var(--purple);
+}
+
+.btn-github:hover {
+	background-color: var(--purple);
+}
+
+.text {
+	padding: 1rem;
+	font-size: x-large;
+	line-height: 0.4in;
+}

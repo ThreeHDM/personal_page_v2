@@ -1,0 +1,21 @@
+.dev-img {
+	width: 100%;
+}
+
+.title,
+.subtitle {
+	font-family: 'Prompt', sans-serif;
+	margin: 0;
+	font-size: 3rem;
+}
+
+.subtitle {
+	color: rgb(145, 137, 137);
+}
+
+@media screen and (max-width: 600px) {
+	.title,
+	.subtitle {
+		text-align: center;
+	}
+}
