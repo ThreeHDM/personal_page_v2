@@ -1,12 +1,14 @@
 {
 	"EN": {
-		"aboutLink": "About Me",
-		"about": "About me english...",
-		"c": "d"
+		"aboutLinkShort": "About Me - Short",
+		"aboutShort": "About me english...",
+		"aboutLinkLong": "About Me - Long",
+		"aboutLong": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam rutrum at odio ac porta. Aliquam fermentum elit quis lectus semper faucibus. Morbi et velit fermentum, volutpat eros ut, semper tellus. Mauris venenatis enim et ligula gravida blandit. Curabitur mauris nibh, suscipit sit amet velit et, finibus ultricies nisl. Suspendisse a efficitur augue. Vivamus accumsan tristique enim. Mauris quis ligula purus. Pellentesque tristique odio et odio malesuada commodo. Mauris et elit placerat, gravida turpis sed, suscipit dolor. Nulla placerat lectus ut mi semper, sed pulvinar urna laoreet. Nam rutrum eros at viverra vulputate. \n Donec ut massa fringilla, aliquam elit vehicula, tempus lectus. Cras commodo vel nisl sit amet tempor. Phasellus nulla turpis, vehicula ac mollis non, malesuada euismod dolor. Proin et dictum nisl, vel tincidunt massa. Etiam tempor aliquam velit nec aliquam. Praesent at tincidunt justo. Vivamus rhoncus pulvinar sapien. Donec blandit sem et pellentesque efficitur. Fusce sed elit gravida nisl ultricies dictum eget eu orci. Aenean laoreet augue vel pharetra tempus. Vivamus dignissim sodales fermentum. Integer a lacus sed mi malesuada euismod in at est. Nullam luctus magna nec tellus laoreet, quis facilisis felis pulvinar. Ut sodales lorem vel mauris hendrerit volutpat. Maecenas a mauris ac turpis imperdiet tristique eu id mi."
 	},
 	"ES": {
-		"aboutLink": "Sobre mí",
-		"about": "Sobre mí español...",
-		"c": "d"
+		"aboutLinkShort": "Sobre mí - corto",
+		"aboutShort": "¡Hola! mi nombre es Juan y soy <b>Desarrollador Web Fullstack</b>. Soy un orgulloso nerd/computer-geek y me encanta todo lo relacionado a la tecnología. Además me gusta enseñar y compartir mis conocimientos.",
+		"aboutLinkLong": "Sobre mí - largo",
+		"aboutLong": "d"
 	}
 }

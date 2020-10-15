@@ -1,8 +1,8 @@
-import React, { useCallback } from 'react';
+import React from 'react';
 import './Menu.css';
 
 function Menu({ language, onLanguageChange }) {
-	function handleChange(event) {
+	function handleChange() {
 		console.log(language);
 		// Here, we invoke the callback with the new value
 		onLanguageChange(language === 'ES' ? 'EN' : 'ES');
@@ -10,8 +10,16 @@ function Menu({ language, onLanguageChange }) {
 
 	return (
 		<div>
-			<div onClick={handleChange} value={language}>
-				{language}
+			<div className="menu-container">
+				<nav className="menu">
+					<ul>
+						<li>
+							<div onClick={handleChange} value={language}>
+								{language === 'ES' ? 'EN' : 'ES'}
+							</div>
+						</li>
+					</ul>
+				</nav>
 			</div>
 		</div>
 	);

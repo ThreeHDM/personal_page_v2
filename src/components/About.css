@@ -24,13 +24,18 @@
 	color: var(--white);
 }
 
-.btn-about {
-	border-color: var(--blue);
+
+.link {
+	font-weight: bold;
+	margin: 1rem;
+}
+
+.link-about-short {
 	color: var(--blue);
 }
 
-.btn-about:hover {
-	background-color: var(--blue);
+.link-about-short:hover {
+	color: var(--orange);
 }
 
 .btn-github {
@@ -40,6 +45,33 @@
 
 .btn-github:hover {
 	background-color: var(--purple);
+}
+
+.btn-cv {
+	border-color: var(--pink);
+	color: var(--pink);
+}
+
+.btn-cv:hover {
+	background-color: var(--pink);
+}
+
+.btn-codepen {
+	border-color: var(--yellow);
+	color: var(--yellow);
+}
+
+.btn-codepen:hover {
+	background-color: var(--yellow);
+}
+
+.btn-mail {
+	border-color: var(--orange);
+	color: var(--orange);
+}
+
+.btn-mail:hover {
+	background-color: var(--orange);
 }
 
 .text {
