@@ -30,11 +30,32 @@
 	margin: 1rem;
 }
 
+.link:hover {
+	cursor: pointer;
+	text-decoration: underline;
+}
+
 .link-about-short {
 	color: var(--blue);
 }
 
 .link-about-short:hover {
+	color: var(--orange);
+}
+
+.link-about-long{
+	color: var(--pink);
+}
+
+.link-about-long:hover {
+	color: var(--orange);
+}
+
+.link-portfolio {
+	color: var(--purple);
+}
+
+.link-portfolio:hover {
 	color: var(--orange);
 }
 
@@ -63,6 +84,15 @@
 
 .btn-codepen:hover {
 	background-color: var(--yellow);
+}
+
+.btn-linkedin {
+	border-color: var(--green);
+	color: var(--green);
+}
+
+.btn-linkedin:hover {
+	background-color: var(--green);
 }
 
 .btn-mail {

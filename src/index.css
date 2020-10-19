@@ -1,6 +1,10 @@
 @import url('https://fonts.googleapis.com/css2?family=Prompt&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Athiti:wght@300&display=swap');
 
+* {
+	margin: 0;
+	padding: 0;
+}
 .row {
 	display: flex;
 	flex-direction: row;
@@ -11,7 +15,7 @@
 
 body {
 	font-family: 'Athiti', sans-serif;
-	margin: 0 10% 0 10%;
+	margin: 0 20% 0 20%;
 }
 
 .column {
@@ -19,7 +23,12 @@ body {
 }
 
 @media screen and (max-width: 600px) {
+	body {
+		font-family: 'Athiti', sans-serif;
+		margin: 0 10% 0 10%;
+	}
 	.row {
 		flex-direction: column;
 	}
+	
 }
