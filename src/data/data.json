@@ -3,13 +3,15 @@
 		"aboutLinkShort": "About Me - Short",
 		"aboutShort": "About me english...",
 		"aboutLinkLong": "About Me - Long",
-		"aboutLong": "About me long text..."
+		"aboutLong": "About me long text...",
+		"portfolioLink": "Some of my work"
 	},
 	"ES": {
 		"aboutLinkShort": "Sobre mí - corto",
-		"aboutShort": "¡Hola! mi nombre es Juan y soy <b>Desarrollador Web Fullstack</b>. Soy un orgulloso nerd/computer-geek 🤓 y me encanta todo lo relacionado a la tecnología. Además me gusta enseñar y compartir mis conocimientos. Por ello doy clases de código en la EANT y participo de comunidades de developers como @FrontEndCafé y @FreeCodeCamp.",
+		"aboutShort": "¡Hola! mi nombre es Juan y soy <b>Desarrollador Web Fullstack</b>. Soy un orgulloso nerd/computer-geek 🤓 y me encanta todo lo relacionado a la tecnología. Además me gusta enseñar y compartir mis conocimientos. Por ello doy clases de desarrollo de software en la <a href='#' target='_blank'>EANT</a> y participo de comunidades de developers como @FrontEndCafé y @FreeCodeCamp.",
 		"aboutLinkLong": "Sobre mí - largo",
-		"aboutLong": "Sobre mí long text..."
+		"aboutLong": "Sobre mí long text...",
+		"portfolioLink": "Algunos de mis trabajos"
 	},
 	"PORTFOLIO": [
 		{

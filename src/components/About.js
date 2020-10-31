@@ -59,7 +59,7 @@ function About({ language }) {
 					{data[language].aboutLinkLong}
 				</div>
 				<div className="link link-portfolio" onClick={setPortfolio}>
-					Some of my work
+				{data[language].portfolioLink}
 				</div>
 			</div>
 			<div className="row">
