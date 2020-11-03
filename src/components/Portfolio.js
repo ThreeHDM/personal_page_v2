@@ -6,14 +6,7 @@ const Portfolio = ({ language }) => {
 
     return (
         <div>
-            
-
-
-
-<ul className="cards">
-  
-
-
+          <ul className="cards">
                 {data.PORTFOLIO.map(element => (
                     <li className="cards__item">
                     <div className="card">
@@ -32,12 +25,10 @@ const Portfolio = ({ language }) => {
                       </div>
                     </div>
                   </li>
-                
                 ))}
-                </ul>
-            
+            </ul>
         </div>
-    )
+      )
 };
 
 export default Portfolio;

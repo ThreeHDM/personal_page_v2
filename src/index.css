@@ -1,5 +1,5 @@
-@import url('https://fonts.googleapis.com/css2?family=Prompt&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Athiti:wght@300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=VT323&display=swap');
 
 * {
 	margin: 0;
@@ -15,7 +15,7 @@
 
 body {
 	font-family: 'Athiti', sans-serif;
-	margin: 0 20% 0 20%;
+	margin: 0 15% 0 15%;
 }
 
 .column {
