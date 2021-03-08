@@ -13,6 +13,8 @@ function About({ language }) {
 		setText(value);
 	}
 
+	
+
 	return (
 		<div>
 			<div className="row">
@@ -25,7 +27,7 @@ function About({ language }) {
 					GitHub
 				</a>
 
-				<a href="#" className="button btn-cv">
+				<a href={language == 'EN'? 'https://drive.google.com/file/d/1-I19OHp8gaCoFdjDU9FoLvZonBxQmcoQ/view?usp=sharing' : 'https://drive.google.com/file/d/1d7STJRvkpRQUvoOAFtvdP8FPHVmaWvxr/view?usp=sharing' } target='_blank' className="button btn-cv">
 					Curriculum
 				</a>
 
