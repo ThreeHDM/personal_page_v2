@@ -10,7 +10,6 @@
 
 .button {
 	border: 1px solid;
-	border-radius: 25px;
 	background-color: var(--white);
 	transition: background-color 0.5s ease;
 	width: 100px;
