@@ -1,78 +1,83 @@
 {
-	"EN": {
-		"aboutLinkShort": "About Me - Short",
-		"aboutShort": "Hi! My name is Juan and I am <b> FullStack Web Developer </b>. I'm a proud nerd / computer-geek 🤓 and I love everything related to technology. I also like to teach and share my knowledge. That is why I teach software development classes at <a href='https://eant.tech/' target='_blank'> EANT </a> and participate in developer communities such as <a href = 'https: / /frontend.cafe/ 'target =' _ blank '> @ FrontEndCafé </a> and <a href='https://freecodecampba.org/' target='_blank'> @FreeCodeCamp </a>.",
-		"aboutLinkLong": "About Me - Long",
-		"aboutLong": "In a hole in the ground there lived a Developer ... 🧙‍♂️ </br> </br> Hello! My name is Juan and I am <b> FullStack Web Developer </b>. I'm a proud nerd / computer-geek 🤓 and I love everything related to technology. I like to teach and share my knowledge. That is why I teach code classes in <a href='https://eant.tech/' target='_blank'> EANT </a> and participate in developer communities such as <a href = 'https: // frontend .cafe / 'target =' _ blank '> @ FrontEndCafé </a> and <a href='https://freecodecampba.org/' target='_blank'> @FreeCodeCamp </a>. </br> </br> Besides being a constant learner, I am an entrepreneur. I am the <b> founder </b> and creator of the <b> startup </b> <a href='https://abogaciapractica.com/' target='_blank'> abogaciapractica.com </a>. In it, I took the role of designer, developer, layout designer, sysAdmin, content creator, QA, customer service and other tasks of a startup. </br> </br> I consider <b>Teamwork </b to be a fundamental part of software development and, as a team member, I take a proactive, cooperative and organizational role. This without losing sight of the <b>flexibility </b> to mold the project and its development to the specific circumstances of the environment using <b> agile methodologies</b> to achieve it.",
-		"portfolioLink": "Some of my work"
-	},
-	"ES": {
-		"aboutLinkShort": "Sobre mí - corto",
-		"aboutShort": "¡Hola! Mi nombre es Juan y soy <b>Desarrollador Web FullStack</b>. Soy un orgulloso nerd/computer-geek 🤓 y me encanta todo lo relacionado a la tecnología. Además me gusta enseñar y compartir mis conocimientos. Por ello doy clases de desarrollo de software en la <a href='https://eant.tech/' target='_blank'>EANT</a> y participo de comunidades de developers como <a href='https://frontend.cafe/' target='_blank'>@FrontEndCafé</a> y <a href='https://freecodecampba.org/' target='_blank'>@FreeCodeCamp</a>.",
-		"aboutLinkLong": "Sobre mí - largo",
-		"aboutLong": "En un agujero en el suelo vivía un Developer... 🧙‍♂️ </br></br>¡Hola! Mi nombre es Juan y soy <b>Desarrollador Web FullStack</b>. Soy un orgulloso nerd/computer-geek 🤓 y me encanta todo lo relacionado a la tecnología. Me gusta enseñar y compartir mis conocimientos. Por ello doy clases de código en la <a href='https://eant.tech/' target='_blank'>EANT</a> y participo de comunidades de developers como <a href='https://frontend.cafe/' target='_blank'>@FrontEndCafé</a> y <a href='https://freecodecampba.org/' target='_blank'>@FreeCodeCamp</a>. </br></br>Además de aprender, me gusta emprender. Soy el <b>fundador</b> y creador de la <b>startup</b> <a href='https://abogaciapractica.com/' target='_blank'>abogaciapractica.com</a>. En ella, tomé el rol de diseñador, desarrollador, maquetador, sysAdmin, creador de contenidos, QA, atención al cliente y demás tareas de un emprendimiento. </br></br>El <b>trabajo en equipo</b> me parece una parte fundamental del desarrollo de software y, como miembro, asumo un rol proactivo, cooperativo y organizado. Ello sin perder de vista la <b>flexibilidad</b> para moldear el proyecto y su desarrollo a las circunstancias específicas del entorno utilizando <b>metodologías ágiles</b> para lograrlo.",
-		"portfolioLink": "Algunos de mis trabajos"
-	},
-	"PORTFOLIO": [
-		{
-			"img": "nerdflix.gif",
-			"alt": "nerdflix demostratrion",
-			"code": "https://github.com/ThreeHDM/nerdflix-bootstrap",
-			"demo": "https://threehdm.github.io/nerdflix-bootstrap/movies.html",
-			"stack": [
-				"bootstrap",
-				"JS"
-			],
-			"EN": {
-				"title": "Nerdflix",
-				"description": "this is an expample..",
-				"linkText": "Miralo!"
-			},
-			"ES": {
-				"title": "Nerdflix",
-				"description": "Este es un ejemplo",
-				"linkText": "Check it out!"
-			}
-		},
-		{
-			"img": "nerdflix.gif",
-			"alt": "nerdflix demostratrion",
-			"code": "https://github.com/ThreeHDM/JScript-avanzado-EANT",
-			"demo": "https://threehdm.github.io/JScript-avanzado-EANT/index.html",
-			"stack": [
-				"bootstrap",
-				"JS"
-			],
-			"EN": {
-				"title": "Mercado Tech",
-				"description": "this is an expample..",
-				"linkText": "Miralo!"
-			},
-			"ES": {
-				"title": "Mercado Tech",
-				"description": "Proyecto realizado en curso de JS avanzado EANT - JS orientado a objetos - Localstorage - Google SignIn",
-				"linkText": "Check it out!"
-			}
-		},
-		{
-			"img": "nerdflix.gif",
-			"alt": "nerdflix demostratrion",
-			"code": "#",
-			"demo": "#",
-			"stack": [
-				"bootstrap",
-				"JS"
-			],
-			"EN": {
-				"title": "Sana.com.ar",
-				"description": "this is an expample..",
-				"linkText": "Miralo!"
-			},
-			"ES": {
-				"title": "Sana.com.ar",
-				"description": "...",
-				"linkText": "Check it out!"
-			}
-		}
-	]
+  "EN": {
+    "aboutLinkShort": "About Me - Short",
+    "aboutShort": "Hi! My name is Juan and I am <b> FullStack Web Developer </b>. I'm a proud nerd / computer-geek 🤓 and I love everything related to technology. I also like to teach and share my knowledge. That is why I teach software development classes at <a href='https://eant.tech/' target='_blank'> EANT </a> and participate in developer communities such as <a href = 'https: / /frontend.cafe/ 'target =' _ blank '> @ FrontEndCafé </a> and <a href='https://freecodecampba.org/' target='_blank'> @FreeCodeCamp </a>.",
+    "aboutLinkLong": "About Me - Long",
+    "aboutLong": "In a hole in the ground there lived a Developer ... 🧙‍♂️ </br> </br> Hello! My name is Juan and I am <b> FullStack Web Developer </b>. I'm a proud nerd / computer-geek 🤓 and I love everything related to technology. I like to teach and share my knowledge. That is why I teach code classes in <a href='https://eant.tech/' target='_blank'> EANT </a> and participate in developer communities such as <a href = 'https: // frontend .cafe / 'target =' _ blank '> @ FrontEndCafé </a> and <a href='https://freecodecampba.org/' target='_blank'> @FreeCodeCamp </a>. </br> </br> Besides being a constant learner, I am an entrepreneur. I am the <b> founder </b> and creator of the <b> startup </b> <a href='https://abogaciapractica.com/' target='_blank'> abogaciapractica.com </a>. In it, I took the role of designer, developer, layout designer, sysAdmin, content creator, QA, customer service and other tasks of a startup. </br> </br> I consider <b>Teamwork </b to be a fundamental part of software development and, as a team member, I take a proactive, cooperative and organizational role. This without losing sight of the <b>flexibility </b> to mold the project and its development to the specific circumstances of the environment using <b> agile methodologies</b> to achieve it.",
+    "portfolioLink": "Some of my work"
+  },
+  "ES": {
+    "aboutLinkShort": "Sobre mí - corto",
+    "aboutShort": "¡Hola! Mi nombre es Juan y soy <b>Desarrollador Web FullStack</b>. Soy un orgulloso nerd/computer-geek 🤓 y me encanta todo lo relacionado a la tecnología. Además me gusta enseñar y compartir mis conocimientos. Por ello doy clases de desarrollo de software en la <a href='https://eant.tech/' target='_blank'>EANT</a> y participo de comunidades de developers como <a href='https://frontend.cafe/' target='_blank'>@FrontEndCafé</a> y <a href='https://freecodecampba.org/' target='_blank'>@FreeCodeCamp</a>.",
+    "aboutLinkLong": "Sobre mí - largo",
+    "aboutLong": "En un agujero en el suelo vivía un Developer... 🧙‍♂️ </br></br>¡Hola! Mi nombre es Juan y soy <b>Desarrollador Web FullStack</b>. Soy un orgulloso nerd/computer-geek 🤓 y me encanta todo lo relacionado a la tecnología. Me gusta enseñar y compartir mis conocimientos. Por ello doy clases de código en la <a href='https://eant.tech/' target='_blank'>EANT</a> y participo de comunidades de developers como <a href='https://frontend.cafe/' target='_blank'>@FrontEndCafé</a> y <a href='https://freecodecampba.org/' target='_blank'>@FreeCodeCamp</a>. </br></br>Además de aprender, me gusta emprender. Soy el <b>fundador</b> y creador de la <b>startup</b> <a href='https://abogaciapractica.com/' target='_blank'>abogaciapractica.com</a>. En ella, tomé el rol de diseñador, desarrollador, maquetador, sysAdmin, creador de contenidos, QA, atención al cliente y demás tareas de un emprendimiento. </br></br>El <b>trabajo en equipo</b> me parece una parte fundamental del desarrollo de software y, como miembro, asumo un rol proactivo, cooperativo y organizado. Ello sin perder de vista la <b>flexibilidad</b> para moldear el proyecto y su desarrollo a las circunstancias específicas del entorno utilizando <b>metodologías ágiles</b> para lograrlo.",
+    "portfolioLink": "Algunos de mis trabajos"
+  },
+  "PORTFOLIO": [
+    {
+      "code": "https://github.com/ThreeHDM/personal_page_v2",
+      "demo": "https://juanbilardi.com",
+      "stack": ["ReactJS"],
+      "EN": {
+        "title": "This Site!",
+        "description": "My personal page created with ReactJS"
+      },
+      "ES": {
+        "title": "Este sitio!",
+        "description": "Mi página personal creada con ReactJS"
+      }
+    },
+    {
+      "code": "https://github.com/ThreeHDM/nerdflix-bootstrap",
+      "demo": "https://threehdm.github.io/nerdflix-bootstrap/movies.html",
+      "stack": ["bootstrap", "JS"],
+      "EN": {
+        "title": "Nerdflix",
+        "description": "Clon de Netflix creado para explicar Bootstrap en un workshop"
+      },
+      "ES": {
+        "title": "Nerdflix",
+        "description": "Netflix clone created to explain Bootstrap in a workshop"
+      }
+    },
+    {
+      "code": "https://github.com/ThreeHDM/JScript-avanzado-EANT",
+      "demo": "https://threehdm.github.io/JScript-avanzado-EANT/index.html",
+      "stack": ["bootstrap", "JS"],
+      "EN": {
+        "title": "Mercado Tech",
+        "description": "this is an expample.."
+      },
+      "ES": {
+        "title": "Mercado Tech",
+        "description": "Proyecto realizado en curso de JS avanzado EANT - JS orientado a objetos - Localstorage - Google SignIn"
+      }
+    },
+    {
+      "code": "https://github.com/ThreeHDM/ELECTRON_ADMINLTE",
+      "demo": "#",
+      "stack": ["Electron", "JS", "bootstrap", "ADMIN-LTE Dashboard"],
+      "EN": {
+        "title": "ELECTRON and ADMIN LTE",
+        "description": "I used ELECTRON to create a simple desktop app with the ADMINLTE dashboard template."
+      },
+      "ES": {
+        "title": "ELECTRON and ADMIN LTE",
+        "description": "Usé ELECTRON para crear una aplicación de escritorio simple con la plantilla de panel ADMINLTE."
+      }
+    },
+    {
+      "code": "https://github.com/ThreeHDM/personal_page",
+      "demo": "#",
+      "stack": ["JQuery", "JS", "bootstrap"],
+      "EN": {
+        "title": "My Old Personal Page",
+        "description": "My old portfolio created with Pixel Art styles."
+      },
+      "ES": {
+        "title": "Mi vieja Página Personal",
+        "description": "Mi viejo portfolio creado con estilos Pixel Art."
+      }
+    }
+  ]
 }
