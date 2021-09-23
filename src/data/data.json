@@ -78,6 +78,19 @@
         "title": "Mi vieja Página Personal",
         "description": "Mi viejo portfolio creado con estilos Pixel Art."
       }
+    },
+    {
+      "code": "https://github.com/ThreeHDM/cabify-landing-clone",
+      "demo": "https://cabify-form-laravel-clone.herokuapp.com/?",
+      "stack": ["Laravel 8", "Bootstrap 4", "Heroku", "ClearDB MySQL"],
+      "EN": {
+        "title": "LARAVEL - Cabify IPad landing page clone",
+        "description": "Cabify promotion landing page clone created with Laravel 8 using native form validation, blade templates and more"
+      },
+      "ES": {
+        "title": "LARAVEL - Cabify IPad landing page clon",
+        "description": "Clon de landing page de promoción de Cabify creado con Laravel 8 usando validación de formulario nativo, plantillas blade y más"
+      }
     }
   ]
 }
